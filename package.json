@@ -4,7 +4,7 @@
   "main": "index.js",
   "author": "Silas Augusto <augusto.fernandes775@gmail.com>",
   "license": "MIT",
-  "scripts": {"dev": "nodemon src/server.js"},
+  "scripts": {"start": "nodemon src/server.js"},
   "devDependencies": {
     "nodemon": "^2.0.3"
   },
